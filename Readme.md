@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple project for displaying a responsive digital postcard
+A simple project for displaying a non responsive digital postcard.
 
 ## Tech Stack
 
